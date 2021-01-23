@@ -2,4 +2,5 @@
 
 # Web関連
 
-[ローカルの動画ファイルを選択して再生](web/video-file-select.md)
+- [canvasからBlobを作る](web/canvas-blob.md)
+- [ローカルの動画ファイルを選択して再生](web/video-file-select.md)
