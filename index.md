@@ -10,3 +10,9 @@
 ## データ分析
 
 - [売り上げデータを店舗別にプロットする](python/plot-each-shops-using-pivot_table.md)
+
+# Java
+
+## Spring
+
+- [Redisを使ったキャッシング](java/spring-cache-using-redis.md)
