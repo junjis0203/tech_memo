@@ -5,6 +5,10 @@
 - [canvasからBlobを作る](web/canvas-blob.md)
 - [ローカルの動画ファイルを選択して再生](web/video-file-select.md)
 
+# JavaScript
+
+- [数値キーとObject.keys][js/number-key-and-object-keys.md]
+
 # Python
 
 ## データ分析
