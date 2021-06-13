@@ -7,7 +7,7 @@
 
 # JavaScript
 
-- [数値キーとObject.keys][js/number-key-and-object-keys.md]
+- [数値キーとObject.keys](js/number-key-and-object-keys.md)
 
 # Python
 
