@@ -14,6 +14,7 @@
 ## データ分析
 
 - [売り上げデータを店舗別にプロットする](python/plot-each-shops-using-pivot_table.md)
+- [NumPyでzip的なことをする](python/numpy-zip.md)
 
 # Java
 
