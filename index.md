@@ -4,6 +4,7 @@
 
 - [canvasからBlobを作る](web/canvas-blob.md)
 - [ローカルの動画ファイルを選択して再生](web/video-file-select.md)
+- [insertAdjacentHTMLで追加してquerySelectorで取得](web/insertAdjacentHTML-and-querySelector.md)
 
 # JavaScript
 
