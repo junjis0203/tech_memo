@@ -17,6 +17,12 @@
 - [売り上げデータを店舗別にプロットする](python/plot-each-shops-using-pivot_table.md)
 - [NumPyでzip的なことをする](python/numpy-zip.md)
 
+# Ruby
+
+## Ruby on Rails
+
+- [RailsコンソールでSQLが出力されるようにする](rails/console-sql-log.md)
+
 # Java
 
 ## Spring
